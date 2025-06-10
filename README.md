@@ -9,14 +9,15 @@ I started coding in 1999 as a nerdy kid designing static Neopets sites in HTML/C
 Today, I blend software engineering with digital design, working across various languages, frameworks, libraries, and tools.
 
 ## 🧠 Languages
-Python, C, C++, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, Markdown, PHP, Dart, Powershell
+Python, C/C++, CMake, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, Markdown, PHP, Dart, Powershell, *AudioScript* (Custom AudioMIX DSL)
 
 ---
 
-I'm a Meta Verified digital content creator, Google Developer (GDG Miami), open-source contributor, and proud Linux power user (Ubuntu > macOS, any day). I build using a Chromebook named **Chrom-E**.
+I'm a Meta Verified digital content creator, Google Developer (GDG Miami), open-source contributor, and proud Linux power user (Ubuntu > macOS, any day). I build using a mutant ChromeOS/Ubtuntu-hybridChromebook named **Chrom-E**.
 If you’re building something creative, audio-driven, or modular — let’s connect.  
 **Freelance and collaboration inquiries welcome.**
 
 ---
 
-**AudioMIX** is now a private repository. The project is currently under active development. As to ensure code quality, protect ongoing research, and safeguard original contributions from misuse, the repository is has been *temporarily* set to private. For inquires, collaborations, or early access requests, please reach out to me directly at 📨[alexis@alexismvasquez.com](mailto:alexis@alexismvasquez.com). Thank you.
+### A Note on Repository Access
+**AudioMIX** is an open-source project with *public visibility* and *private control.* While the codebase is viewable and cloneable for educational or inspirational purposes, all contributions are protected by locked permissions. Only approved collaborators may push changes or submit pull requests. This ensures that the core vision, integrity, and technical architecture remain intact while still allowing the public to explore the project’s evolution. If you're interested in collaborating and your values align with the **Ethical AI ethos** outlined in the **AudioMIX** repository, feel free to reach out to me directly at 📨[alexis@alexismvasquez.com](mailto:alexis@alexismvasquez.com). Thank you 💚🎧
