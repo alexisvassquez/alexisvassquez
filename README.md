@@ -9,7 +9,7 @@ I started coding in 1999 as a nerdy kid designing static Neopets sites in HTML/C
 Today, I blend software engineering with digital design, working across various languages, frameworks, libraries, and tools.
 
 ## 🧠 Languages
-Python, C/C++, CMake, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, Markdown, PHP, Dart, Powershell, *AudioScript* (Custom AudioMIX DSL)
+Python, C/C++, CMake, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, Markdown, PHP, Dart, Powershell, COBOL, *AudioScript* (Custom AudioMIX DSL)
 
 ---
 
