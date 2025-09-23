@@ -1,13 +1,13 @@
 # I'm Alexis
 
-I'm a **software engineer**, **mobile app developer,** and **digital designer**.
+I'm a **software engineer**, **Flutter mobile app developer,** and **digital designer**.
 
 ## 🧠 Languages
 Python, C/C++, CMake, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, Markdown, PHP, Dart, Powershell, COBOL, *AudioScript* (Custom AudioMIX DSL)
 
 ---
 
-I'm a Meta Verified digital content creator, Google Developer in GDG's Miami chapter, open-source contributor, and proud Windows, Linux, and Android user (Sorry macOS). I build using a mutant ChromeOS/Ubtuntu-hybridChromebook named **Chrom-E**.
+I'm a Meta Verified digital content creator, Google Developer in GDG's Miami chapter, and open-source contributor. I'm a Linux, Android, and Windows user (sorry macOS). I build using a mutant ChromeOS/Ubtuntu-hybrid Chromebook named **Chrom-E**.
 **Freelance and collaboration inquiries welcome.**
 
 ---
