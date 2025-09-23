@@ -7,7 +7,7 @@ Python, C/C++, CMake, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, 
 
 ---
 
-I'm a Meta Verified digital content creator, Google Developer in GDG's Miami chapter, open-source contributor, and proud Linux user (Ubuntu > macOS). I build using a mutant ChromeOS/Ubtuntu-hybridChromebook named **Chrom-E**.
+I'm a Meta Verified digital content creator, Google Developer in GDG's Miami chapter, open-source contributor, and proud Windows, Linux, and Android user (Sorry macOS). I build using a mutant ChromeOS/Ubtuntu-hybridChromebook named **Chrom-E**.
 **Freelance and collaboration inquiries welcome.**
 
 ---
