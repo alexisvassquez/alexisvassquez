@@ -3,7 +3,7 @@
 I'm a **software engineer**, **Flutter mobile app developer,** and **digital designer**.
 
 ## 🧠 Languages
-Python, C/C++, CMake, JavaScript, Rust, TypeScript, Bash, HTML, CSS, SQL, JSON, Markdown, PHP, Dart, Powershell, COBOL, *AudioScript* (Custom AudioMIX DSL)
+Python, Dart, C/C++, CMake, Bash, HTML, CSS, SQL, JavaScript, TypeScript, JSON, Markdown, PHP, Rust, Powershell, COBOL, *AudioScript* (Custom AudioMIX DSL)
 
 ---
 
