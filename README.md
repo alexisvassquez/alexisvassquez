@@ -9,7 +9,9 @@ Python, Dart, C/C++, CMake, Bash, HTML, CSS, SQL, JavaScript, TypeScript, JSON, 
 
 ---
 
-I'm a Meta Verified digital content creator, Google Developer in GDG's Miami chapter, and open-source contributor. I'm a Linux, Android, and Windows user (sorry macOS). I build using a mutant ChromeOS/Ubtuntu-hybrid Chromebook named **Chrom-E**.
+I'm a Meta Verified digital content creator, Google Developer in GDG's Miami chapter, and open-source contributor. I'm a Linux, Android, and Windows user (sorry macOS). 
+
+I build using a mutant ChromeOS/Ubtuntu-hybrid Chromebook named **Chrom-E** and the newest member of our development system, a GMKtec Nucbox K8 Plus mini PC named **K8**.
 **Freelance and collaboration inquiries welcome.**
 
 ---
