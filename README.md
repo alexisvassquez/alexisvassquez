@@ -3,7 +3,7 @@
 
 ## Software Engineer • DSP Enthusiast • Builder of Audio Systems
 
-I design and build **modular, real-time audio systems** powered by AI and signal processing.
+I design and build real-time audio systems powered by AI and signal processing.
 
 Currently focused on **Digital Signal Processing (DSP)** and the development of my flagship project: **AudioMIX**.
 
@@ -24,6 +24,7 @@ Builder of *AudioScript*, custom AudioMIX musical programming DSL built for real
 I'm a digital content creator, Google Developer in GDG's Miami and Broward chapters, and an open-source contributor. I'm a Linux, Android, and Windows user (sorry macOS).
 
 I build using a mutant ChromeOS/Ubtuntu-hybrid Chromebook named **Chrom-E** and the newest member of our development system, a GMKtec Nucbox K8 Plus mini PC named **K8**.
+
 **Freelance and collaboration inquiries welcome.**
 
 > I believe in building technology that amplifies creativity, not replaces it.
