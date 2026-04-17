@@ -7,6 +7,8 @@ I design and build **modular, real-time audio systems** powered by AI and signal
 
 Currently focused on **Digital Signal Processing (DSP)** and the development of my flagship project: **AudioMIX**.
 
+👉 <https://github.com/alexisvassquez/ai_spotibot_player>
+
 I work on all of my projects from my local terminal and commit as I test. :)
 
 ---
