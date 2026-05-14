@@ -15,7 +15,7 @@ I work on all of my projects from my local terminal and commit as I test. :)
 
 ## 🧠 Tech Stack
 
-Python, Dart, C/C++, CMake, Bash, HTML, CSS, SQL, JavaScript, TypeScript, JSON, Markdown, PHP, Rust, PowerShell, COBOL, Java
+Python, Dart, C/C++, CMake, Bash, HTML, CSS, SQL, JavaScript, TypeScript, JSON, Markdown, PHP, Rust, PowerShell, COBOL, Java, Kotlin
 
 Builder of *AudioScript*, custom AudioMIX musical programming DSL built for real-time audio and live performance control
 
