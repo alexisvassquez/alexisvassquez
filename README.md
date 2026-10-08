@@ -23,7 +23,7 @@ Currently focused on **Digital Signal Processing (DSP)** and my flagship project
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,cpp,cmake,flutter,bash,html,css,js,powershell,kotlin,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,cmake,flutter,html,css,js,react,powershell,kotlin,fastapi" />
 </p>
 
 <p align="center">
